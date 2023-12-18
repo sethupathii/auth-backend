@@ -1,0 +1,11 @@
+MONGODB_Cluster Name:-sethupathi
+Username:-sethupathi
+password:-GTgizPYdpIRICbo1           WdrfbO3BeGkOuPpx     KO05PIinOnnkyZvk
+Coonec:-mongodb+srv://sethuyadav13:GTgizPYdpIRICbo1@sethupathi.utoonbe.mongodb.net/
+
+
+new
+mongodb+srv://sethupathi:KO05PIinOnnkyZvk@sethupathi.svodfjv.mongodb.net/
+
+nodemailer:-
+boim dxxl xxvc tawo
